@@ -1,5 +1,5 @@
-<p align="center"><a href="https://github.com/ITZ-ZAID/Telegram"><img src="https://img.shields.io/badge/𝐀𝐧𝐢𝐞%20𝐑𝐨𝐛𝐨𝐭-red?&style=flat-square?&logo=github" width=600px></a></p>
-<p align="center"><a href="https://github.com/ITZ-ZAID/Telegram"><img src="https://telegra.ph/file/c05d22bcb94fb92b354db.jpg"></a></p>
+<p align="center"><a href="https://github.com/ITZ-ZAID/Telegram"><img src="https://img.shields.io/badge/Angel-Angel-red" width=600px></a></p>
+<p align="center"><a href="https://github.com/ITZ-ZAID/Telegram"><img src="https://te.legra.ph/file/544ffbb6532ab48738625.jpg"></a></p>
 
 #
 
@@ -41,9 +41,9 @@ python3 -m Telegram # start the bot.
 <p align="center">𝐌𝐚𝐝𝐞 𝐁𝐲</p>
 
 <p align="center">
-    <a href="https://t.me/Timesisnotwaiting"> <img src="https://img.shields.io/badge/Anie-Master-ff69b4" /> </a>
+    <a href="https://t.me/Yes_Suppose_I_Am"> <img src="https://img.shields.io/badge/Angel-Angel-red" /> </a>
 </p>
-<a href="https://t.me/Timesisnotwaiting"><img src="https://img.shields.io/badge/Iƚȥ%20Zαιԃ-gold?&style=for-the-badge&logo=telegram" width=600px></a></p>
+<a href="https://t.me/Yes_Suppose_I_Am"><img https://img.shields.io/badge/Angel-Angel-red" width=600px></a></p>
 
 
 #
@@ -51,9 +51,9 @@ python3 -m Telegram # start the bot.
 <p align="center">𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩</p>
 
 <p align="center">
-    <a href="https://t.me/TheSupportChat"> <img src="https://img.shields.io/badge/Join-Our-green" /> <img src="https://img.shields.io/badge/Support-Group-critical" /> </a>
+    <a href="https://t.me/Friendship_Zone_Group"> <img src="https://img.shields.io/badge/Angel-Angel-red" /> <img src="https://img.shields.io/badge/Angel-Angel-red" /> </a>
 </p>
-<a href="https://t.me/TheUpdatesChannel"><img src="https://img.shields.io/badge/Telegram-𝐔𝐩𝐝𝐚𝐭𝐞%20'𝐬%20𝐂𝐡𝐚𝐧𝐧𝐞𝐥%20-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
+<a href="https://t.me/Friendship_Zone_Group"><img src="https://img.shields.io/badge/Angel-Angel-red" width=600px></a></p>
 
 
 #
