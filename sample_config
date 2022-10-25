@@ -1,16 +1,16 @@
 [zaidconfig]
 log = True
-APP_ID = 6435225
-API_HASH = 4e984ea35f854762dcde906dce426c2d
-TOKEN = Your Bot Token. @botfather
-OWNER_ID = 1669178360
+APP_ID = 9333070
+API_HASH = 511eb11eda4af78ec8f9a0a7de9e1241
+TOKEN = 5560643905:AAGD61XBWVzGRCCEPLqRw38ARfYl5dEM1Lw
+OWNER_ID = 5016109398
 STRING_SESSION = telethon string Session @@StarkStringGenBot
-OWNER_USERNAME = Timesisnotwaiting
-SQLALCHEMY_DATABASE_URI = Your Database url from elephantsql.com, replace postgres to postgresql:your database url
-MESSAGE_DUMP = -1001509525202
-GBAN_LOGS = -1001509525202
-SYS_ADMIN = 1920507972
-DEV_USERS = 1920507972
+OWNER_USERNAME = Yash_608
+SQLALCHEMY_DATABASE_URI = mongodb+srv://Yashking1:Yashking1@cluster0.edtzwqc.mongodb.net/?retryWrites=true&w=majority
+MESSAGE_DUMP = -1001765798012
+GBAN_LOGS = -1001765798012
+SYS_ADMIN = 5016109398
+DEV_USERS = 5016109398
 LOAD =
 NO_LOAD = sed
 WEBHOOK = False
@@ -28,7 +28,7 @@ CASH_API_KEY = https://www.alphavantage.co/support/#api-key
 TIME_API_KEY = https://timezonedb.com/api
 WALL_API = https://wall.alphacoders.com/api.php
 spamwatch_api = https://t.me/SpamWatchBot
-SPAMMERS =
+SPAMMERS = 0iBcFRdvlI6eZ_vFA3acSUZ3OxgOEYuOwhKOH82hr4NptGDRXVcXVvN7fVAxUwP6
 LASTFM_API_KEY = https://www.last.fm/api/account/create
 CF_API_KEY = coffehouse.intellivoid.net
 BOT_API_URL = https://api.telegram.org/bot
