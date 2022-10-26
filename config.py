@@ -11,7 +11,7 @@ class Config(object):
     APP_ID = getenv("API_ID", "9333070")
     API_HASH = getenv("API_HASH", "511eb11eda4af78ec8f9a0a7de9e1241")
     TOKEN = getenv("TOKEN", "5560643905:AAGD61XBWVzGRCCEPLqRw38ARfYl5dEM1Lw")
-    OWNER_ID = getenv("OWNER_ID")
+    OWNER_ID = getenv("OWNER_ID", "5016109398")
     STRING_SESSION = getenv("STRING_SESSION", "1BVtsOLABuyLuWvOMbiVUegS-ZI_PmlxrktkKQDatMV-Qm_mVeu5XnkgeZ_oOycw3uaFtsr48waqVPVU2g9_VoIOVknAfDZm9_NZeQG7-_HWN0OPVuH6HS4nR28hv7gJ9ctSRFeQrfYwXwZiDmYdvlGi40-8ipDGc58zq5s8lXuNKgUiimZFZM0Ja8-lLR6UttHCwPXIFTGAmtMmnVuPg08SG0fDGoGpB6KcA8KVr02RWhcFszOhDRnulhJ4FUe_jhy_S-cjckVkGkZanykBymWojsG1qX7J2TCsnJzYRDc4jPw5uctqCcQm8cTuJ_o-mqkeJ0Ch0GhmhgLU-nPGS-sdsKznmLuo=")
     OWNER_USERNAME = getenv("OWNER_USERNAME", "Yash_608")
     DB_URI = getenv("DATABASE_URL", "mongodb+srv://Yashking1:Yashking1@cluster0.edtzwqc.mongodb.net/?retryWrites=true&w=majority")
